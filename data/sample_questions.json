@@ -1,0 +1,10 @@
+{
+    "Python": [
+        "Explain Python's GIL and how it affects multi-threading.",
+        "What are Python decorators and how do you use them?"
+    ],
+    "Java": [
+        "Explain the difference between HashMap and Hashtable.",
+        "What is the purpose of the 'volatile' keyword in Java?"
+    ]
+}
