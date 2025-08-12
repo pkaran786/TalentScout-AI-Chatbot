@@ -116,7 +116,3 @@ Added fallback responses and re-ask prompts if user input is missing.
 - Sentiment analysis during interview  
 - Multilingual support  
 
----
-
-## Author
-Karan Purohit – AI/ML Intern Candidate
