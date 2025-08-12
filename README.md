@@ -36,7 +36,7 @@ Candidate data is stored locally in JSON format for simulated backend processing
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit transformers torch accelerate sentencepiece pandas
    ```
 
 4. **Run the application**
